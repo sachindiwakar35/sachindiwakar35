@@ -1,22 +1,29 @@
-# Sachin Diwakar 👋
+## Hey there! 👋
 
-### Full Stack Developer | Problem Solver | Building Real Products
+I'm **Sachin**, a full-stack developer and engineering student based in India.
 
-## 👨‍💻 Who am I?
-B.Tech CSE student passionate about scalable web apps, backend systems & product building.
+I build real-world products using React, Node.js, MySQL, and modern web technologies.
 
-## 🚀 Currently Working On
-QRCalling — QR based instant voice/video communication platform.
+I enjoy turning ideas into scalable systems, solving problems, and shipping practical solutions.
 
-## 🛠 Tools I Use
-React • Node.js • Express • MySQL • MongoDB • JavaScript • Git • Docker
+Right now, I'm building **QRCalling** — a QR-based instant voice/video communication platform.
 
-## 🏆 Highlights
-🏅 GATE 2026 Qualified  
-🏅 AIR 25,584  
-🏅 Built systems handling 10M+ records
+My main stack is React, JavaScript, Node.js, Express.js, MySQL, MongoDB, and Git.
 
-## 📫 Reach Me
-📧 sachindiwakar711@gmail.com  
-💼 [LinkedIn]([https://linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/sachin-diwakar-604aa5338))
-🌐 [Portfolio]([https://yourportfolio-link.vercel.app](https://sachin-portfolio-plum.vercel.app/))
+I've built projects used by institutions, automated thousands of records with OCR, and engineered systems handling 10M+ records.
+
+If you'd like to connect, my **LinkedIn** and **Portfolio** are below.
+
+### Fun Facts:
+
+- Qualified GATE 2026 (CSE)
+- Ranked #45 nationally in Unstop Coding Contest
+- I enjoy product building more than tutorial watching
+- Currently building real products and growing as an engineer
+- Open to internship opportunities where I can contribute and learn fast.
+
+### Reach Me:
+
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/sachin-diwakar-604aa5338))
+- 🌐 [Portfolio]([https://yourportfolio.com](https://sachin-portfolio-plum.vercel.app/))
+- 📧 sachindiwakar711@gmail.com
