@@ -24,6 +24,6 @@ If you'd like to connect, my **LinkedIn** and **Portfolio** are below.
 
 ### Reach Me:
 
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/sachin-diwakar-604aa5338))
-- 🌐 [Portfolio]([https://yourportfolio.com](https://sachin-portfolio-plum.vercel.app/))
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachin-diwakar-604aa5338)
+- 🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://sachin-portfolio-plum.vercel.app)
 - 📧 sachindiwakar711@gmail.com
