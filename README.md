@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sachin Diwakar 👋
 
-<!--
-**sachindiwakar35/sachindiwakar35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Problem Solver | Building Real Products
 
-Here are some ideas to get you started:
+## 👨‍💻 Who am I?
+B.Tech CSE student passionate about scalable web apps, backend systems & product building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+QRCalling — QR based instant voice/video communication platform.
+
+## 🛠 Tools I Use
+React • Node.js • Express • MySQL • MongoDB • JavaScript • Git • Docker
+
+## 🏆 Highlights
+🏅 GATE 2026 Qualified  
+🏅 AIR 25,584  
+🏅 Built systems handling 10M+ records
+
+## 📫 Reach Me
+📧 sachindiwakar711@gmail.com  
+💼 [LinkedIn]([https://linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/sachin-diwakar-604aa5338))
+🌐 [Portfolio]([https://yourportfolio-link.vercel.app](https://sachin-portfolio-plum.vercel.app/))
