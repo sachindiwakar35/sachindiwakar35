@@ -14,7 +14,7 @@ I've built projects used by institutions, automated thousands of records with OC
 
 If you'd like to connect, my **LinkedIn** and **Portfolio** are below.
 
-### Fun Facts:
+### Highlights:
 
 - Qualified GATE 2026 (CSE)
 - Ranked #45 nationally in Unstop Coding Contest
